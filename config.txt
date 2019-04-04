@@ -1,6 +1,6 @@
 owner=348554915876175902
-prefix=!
-game=..
+prefix=f
+game=Watching Instagram Stories
 stayinchannel=true
 songinstatus=true
-token=
+token=NTYzMzA1OTEyODMyMzYwNDYw.XKXZig.P-WeA7xABdj405T9E1UQqPC21Fc
